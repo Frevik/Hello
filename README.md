@@ -3,3 +3,4 @@
 
 привет
 test
+start
